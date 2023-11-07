@@ -1816,3 +1816,6 @@ module.exports = {
 3.  [【万字】透过分析 webpack 面试题，构建 webpack5.x 知识体系](https://juejin.cn/post/7023242274876162084)
 4.  [Babel 那些事儿](https://juejin.cn/post/6992371845349507108)
 5.  [阔别两年，webpack 5 正式发布了！](https://juejin.cn/post/6882663278712094727)
+
+## 来源
+链接：https://github.com/guojiongwei/webpack5-vue3-ts
